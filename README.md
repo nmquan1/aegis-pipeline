@@ -86,9 +86,3 @@ aegis-pipeline/
 ## 🚧 Current Status
 
 The pipeline is currently intended to be run locally for **development and testing purposes**.
-
----
-
-## 📝 License
-
-This project is licensed under the **MIT License**.
