@@ -1,8 +1,8 @@
-# Backend Documentation
+# Pipeline Documentation
 
-## SafeSpace API Backend
+## SafeSpace AI Pipeline
 
-This repository contains the backend API for the SafeSpace application, built with Spring Boot and PostgreSQL.
+This repository contains the AI Pipeline for the SafeSpace application, built with PyFlask.
 
 ## Requirements
 
