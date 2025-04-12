@@ -17,7 +17,12 @@ git clone https://github.com/nmquan1/aegis-pipeline.git
 cd aegis-pipeline
 ```
 
-### 2. Provide your own .env file with gemini API
+### 2. Install dependency
+```.bash
+pip install requirements.txt
+```
+
+### 3. Provide your own .env file with gemini API
 ```.env
 API = your API
 ```
