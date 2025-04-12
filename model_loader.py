@@ -1,8 +1,9 @@
 import google.generativeai as genai
 from transformers import AutoTokenizer, AutoModelForSequenceClassification
+import os
 
 
-genai.configure(api_key="AIzaSyBE-vm3wSuOp-h0ylqE0MUKoGAuP_K1dDQ")
+genai.configure(api_key=os.getenv("API"))
 gemini_model = genai.GenerativeModel('gemini-2.0-flash')  
 
 

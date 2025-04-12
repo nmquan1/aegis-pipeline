@@ -25,7 +25,7 @@ def clean_text(text):
 def get_friendliness_score(text, community):
     prompt = f"""
     Rate the offensiveness towards {community} strictly from 0.10 to 0.39.
-    of the following comment:
+    of the following comment:   
     Comment: "{text}"
     If it's negative but irrelevant to this community, return 0.4
     """
