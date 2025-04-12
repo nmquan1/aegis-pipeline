@@ -10,6 +10,15 @@ To run this project, ensure you have the following:
 
 - 🐍 **Python 3.10 or higher**
 
+> ⚠️ **Important Note**
+>
+> This backend is part of an MVP system and is optimized for local development. For the best experience, it is recommended to run:
+>
+> - 🧠 [Backend](https://github.com/DankoFox/aegis-backend) – Required Backend Operations
+> - 🖥️ [Frontend](https://github.com/Hankaji/GDGDoc-Aegis-Frontend) – Recommended for full functionality and UI interactions testing
+>
+> Ensure that the backend, frontend, and AI pipeline can communicate over the same local network.
+
 ---
 
 ## ⚙️ Setup Instructions
