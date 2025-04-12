@@ -1,0 +1,13 @@
+deep-translator
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+scipy
+transformers
+nltk
+geopy
+requests
+vertexai
+google-cloud-aiplatform
