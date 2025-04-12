@@ -1,6 +1,6 @@
 # Pipeline Documentation
 
-## SafeSpace AI Pipeline
+## AEGIS AI Pipeline
 
 This repository contains the AI Pipeline for the SafeSpace application, built with PyFlask.
 
