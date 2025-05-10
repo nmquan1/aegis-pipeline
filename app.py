@@ -1,7 +1,7 @@
 import os
 from flask import Flask, request, jsonify
 from dotenv import load_dotenv
-from utils import process_reviews
+from utils.process_reviews import process_reviews
 
 # Load environment variables
 load_dotenv()
@@ -27,4 +27,3 @@ def analyze_review():
 
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=5000)
-
